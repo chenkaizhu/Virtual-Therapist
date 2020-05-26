@@ -1,8 +1,9 @@
 # Virtual Therapist
 
 The [**result.ipynb**](https://github.com/chenkaizhu/Virtual-Therapist/blob/master/result.ipynb) is part of an accessible mental health counseling platform that detects speech emotion and responds to verbal distress signals.
-<br>
 
+![](voice_diagram.png?raw=true)
+<br>
 ## CNN Model
 ![](cnn.png?raw=true)
 <br>

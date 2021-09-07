@@ -2,11 +2,11 @@
 
 The [**result.ipynb**](https://github.com/chenkaizhu/Virtual-Therapist/blob/master/result.ipynb) is part of an accessible mental health counseling platform that detects speech emotion and responds to verbal distress signals.
 
-![](voice_diagram.png?raw=true)
+<!-- ![](voice_diagram.png?raw=true)
 <br>
 ## CNN Model
 ![](cnn.png?raw=true)
-<br>
+<br> -->
 
 ## Emotion Recognition
 This step involves extracting the features, such as its pitch and loudness from the audio files which will help our model learn between these audio files leveraging [**LibROSA**](https://librosa.github.io/librosa/) library in python.

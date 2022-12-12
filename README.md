@@ -60,4 +60,4 @@ The user is able to import his/her own .wav file to test against the model.
 2. [SAVEE](http://kahlan.eps.surrey.ac.uk/savee/Download.html)
 
 ## Conclusion
-The model was tuned to detect emotions with more than 70% accuracy to distinguish between male and female voices and their respective emotions. 
+The model was tuned to detect emotions with 95.6% accuracy to distinguish between male and female voices and their respective emotions. 
